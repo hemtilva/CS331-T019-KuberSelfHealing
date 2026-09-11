@@ -1,6 +1,9 @@
 # Kubernetes Network Self-Healing Operator
 
+Team T019
+
 Hem Tilva (24110374) Vansh Barfiwala (24110380) Pratham Choksi (24110275) Shivangi Thaker (24110371) Jils Shah (24110148)
+
 
 A custom Kubernetes operator built in Go that automatically detects and remediates network-level failures in real-time:
 
